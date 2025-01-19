@@ -40,11 +40,12 @@ A quantitative measure of disease progression one year after baseline.
 5. **Visualization**:
    - Used `matplotlib` to visualize the data and the model's predictions.
 
-## Results
+## **Results**
 - **Mean Squared Error**: 1826.48
 - **Weights (Coefficients)**: [ -1.16678648 -237.18123633 518.31283524 309.04204042 -763.10835067 458.88378916 80.61107395 174.31796962 721.48087773 79.1952801 ]
 - **Intercept**: 153.05824267739402
 - **New Data Point for Testing**: [[0.04, 0.05, 0.06, 0.02, 0.08, 0.03, 0.07, 0.01, 0.09, 0.04]]
 - **Prediction for New Data Point**: 206.64
-- 
-## Conclusion This project demonstrates the application of linear regression to predict diabetes progression. The model's accuracy can be further improved by incorporating additional features, fine-tuning, and exploring other regression techniques.
+  
+## **Conclusion** 
+This project demonstrates the application of linear regression to predict diabetes progression. The model's accuracy can be further improved by incorporating additional features, fine-tuning, and exploring other regression techniques.
